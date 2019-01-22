@@ -2139,7 +2139,7 @@ Each performance of a ritual is a unique event, and may not always work the same
 
 # Crafting
 
-During downtime, a PC can <span class="game-term">Tinker</span> with special materials and tools to produce strange** alchemicals**, **build** (or **modify) items**,** **create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
+During downtime, a PC can <span class="game-term">Tinker</span> with special materials and tools to produce strange **alchemicals**, **build** (or modify) items, create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
 
 ## Inventing
 
