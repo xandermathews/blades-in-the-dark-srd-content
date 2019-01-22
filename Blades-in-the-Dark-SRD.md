@@ -46,7 +46,7 @@ When you play, you’ll make several key judgment calls. Everyone contributes, b
 
 _Blades in the Dark_ uses six-sided dice. You roll several at once and read the **single highest result**.
 
-* If the highest die is a **6**, it’s a **full success**—things go well. If you roll more than one **6**, it’s a **critical** success**—you gain some additional advantage.
+* If the highest die is a **6**, it’s a **full success**—things go well. If you roll more than one **6**, it’s a **critical success**—you gain some additional advantage.
 * If the highest die is a **4 or 5**, that’s a **partial success**—you do what you were trying to do, but there are consequences: trouble, harm, reduced effect, etc.
 * If the highest die is **1-3**, it’s a **bad outcome**. Things go poorly. You probably don’t achieve your goal and you suffer complications, too.
 
