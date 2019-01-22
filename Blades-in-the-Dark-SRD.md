@@ -451,7 +451,7 @@ This consequence represents losing control of the situation—the action carries
 
 ## Harm
 
-This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer** lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
+This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer **lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
 
 Your character suffers the penalty indicated at the end of the row if any or all harm recorded in that row applies to the situation at hand. So, if you have “Drained” and “Battered” harm in the bottom row, you’ll suffer reduced effect when you try to run away from the constables. When you’re impaired by harm in the top row (severe harm, level 3), your character is incapacitated and can’t do anything unless you have help from someone else or **push yourself** to perform the action.
 
