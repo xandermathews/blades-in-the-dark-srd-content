@@ -873,10 +873,10 @@ That’s it! Your character is ready for play. When you start the first session,
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-* <span class="game-term">1-3 load:</span>** Light. _You’re faster, less conspicuous; you blend in with citizens._
-* <span class="game-term">4/5 load: </span>**Normal**. _You look like a scoundrel, ready for trouble._
-* <span class="game-term">6 load: </span>**Heavy.** _You’re slower. You look like an operative on a mission._
-* <span class="game-term">7-9 load: </span>**Encumbered.** _You’re overburdened and can’t do anything except move very slowly._
+* <span class="game-term">1-3 load:</span> **Light.** _You’re faster, less conspicuous; you blend in with citizens._
+* <span class="game-term">4/5 load:</span> **Normal.** _You look like a scoundrel, ready for trouble._
+* <span class="game-term">6 load:</span> **Heavy.** _You’re slower. You look like an operative on a mission._
+* <span class="game-term">7-9 load:</span> **Encumbered.** _You’re overburdened and can’t do anything except move very slowly._
 
 
 Some special abilities (like the Cutter’s <span class="game-term">Mule</span> ability or Assassin’s Rigging) increase the load limits.
