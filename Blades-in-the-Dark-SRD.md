@@ -2082,7 +2082,7 @@ You can add levels of magnitude together to describe a combination of effects, o
 
 > In the example above, the demon generated magnitude 6 force and the GM included its area of effect “for free” as part of the power. A huge wave at a dock should affect the boats and the crews there, in their judgment.
 
-> In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: _force 6_ and _range 5_. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits._
+> In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: _force 6_ and _range 5_. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits.
 
 The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a _guideline_ for setting a magnitude number that seem appropriate to you.
 
