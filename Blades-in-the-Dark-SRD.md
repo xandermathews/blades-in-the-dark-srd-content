@@ -1330,12 +1330,10 @@ When you send a cohort to achieve a goal, roll their **quality** to see how it g
 ## Cohort harm &amp; Healing
 
 Cohorts suffer harm similarly to PCs. A cohort can suffer four levels of harm:
-<ol>
-	<li>**Weakened.** The cohort has reduced effect.
-	<li>**Impaired.** The cohort operates with reduced quality (-1d).
-	<li>**Broken.** The cohort can’t do anything until they recover.
-	<li>**Dead.** The cohort is destroyed.
-</ol>
+1. **Weakened.** The cohort has reduced effect.
+2. **Impaired.** The cohort operates with reduced quality (-1d).
+3. **Broken.** The cohort can’t do anything until they recover.
+4. **Dead.** The cohort is destroyed.
 
 All of your cohorts heal during downtime. If circumstances are amenable for recovery, each cohort removes one level of harm (or two levels of harm instead, if a PC spends a downtime activity helping them recuperate).
 
@@ -1633,10 +1631,8 @@ The engagement roll determines the starting position for the PCs’ actions. How
 
 Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. “You create a diversion at the tavern, and when they send thugs over there, we’ll break into their lair.” There are two ways to handle this.
 
-<ol>
-	<li>The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. _If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait._
-	<li>The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, <span class="game-term">heat</span>, etc.) after the first part of the plan, as normal.
-</ol>
+1. The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. _If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait._
+2. The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, <span class="game-term">heat</span>, etc.) after the first part of the plan, as normal.
 
 Either approach is fine. It’s usually a question of interest. Is the linked plan idea interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup maneuver.
 
@@ -1757,12 +1753,10 @@ Downtime fulfills two purposes in the game:
 * Second, the shift into a new phase of the game signals a shift in which mechanics are needed. There are special rules that are only used during the downtime phase, so they’re kept “out of the way” during the other parts of play. When we shift into downtime, we take out a different toolbox and resolve downtime on its own terms, then shift back into the more action-focused phases of the game afterwards.
 
 Downtime is divided into four parts, which are resolved in order:
-	<ol>
-		<li><span class="game-term">Payoff. </span>The crew receives their rewards from a successfully completed score.
-		<li><span class="game-term">Heat. </span>The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
-		<li><span class="game-term">Entanglements.</span> The crew faces trouble from the rival factions, the law, and the haunted city itself.
-		<li><span class="game-term">Downtime Activities.</span> The PCs indulge their vices to remove stress, work on long-term projects, recover from injuries, etc.
-	</ol>
+1. <span class="game-term">Payoff. </span>The crew receives their rewards from a successfully completed score.
+2. <span class="game-term">Heat. </span>The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
+3. <span class="game-term">Entanglements.</span> The crew faces trouble from the rival factions, the law, and the haunted city itself.
+4. <span class="game-term">Downtime Activities.</span> The PCs indulge their vices to remove stress, work on long-term projects, recover from injuries, etc.
 
 After the downtime activities are resolved, the game returns to free play, and the group can move toward their next score.
 
@@ -2109,11 +2103,9 @@ A PC with the <span class="game-term">Ritual</span> special ability begins with 
 Once the source of a ritual is found, you may undertake a long-term project to learn the ritual. Most rituals will require an 8-segment progress clock to learn. The player and the GM answer questions about the ritual to define what it will do in play and what is required to perform it (see below). The player records these answers in their notes for future reference.
 
 ### Ritual Questions
-<ol>
-	<li>GM asks: **“What does the ritual do and how is it weird?”** Player answers.
-	<li>Player asks: **“What must I do to perform the ritual, and what is its price?” **GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually <span class="game-term">Attune</span>). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
-	<li>GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
-</ol>
+1. GM asks: **“What does the ritual do and how is it weird?”** Player answers.
+2. Player asks: **“What must I do to perform the ritual, and what is its price?”** GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually <span class="game-term">Attune</span>). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
+3. GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
 
 ### Example Ritual Answers
 
@@ -2146,12 +2138,10 @@ During downtime, a PC can <span class="game-term">Tinker</span> with special mat
 To invent a formula for a new alchemical concoction or the plan for a new item of your design, you need to <span class="game-term">Study</span> it as a **long-term project**. Most new formulas or designs will require an 8-segment progress clock to invent and learn. The player and the GM answer questions about the invention to define what it will do in play and what is required to create it (see below). The player records these answers in their notes for future reference.
 
 ### Creation Questions
-<ol>
-	<li>GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span><span class="game-term CharOverride-15">, </span><span class="game-term">Artificer</span><span class="game-term CharOverride-15">, </span><span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
-	<li>Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
-	<li>GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
-	<li>Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
-</ol>
+1. GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span><span class="game-term CharOverride-15">, </span><span class="game-term">Artificer</span><span class="game-term CharOverride-15">, </span><span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
+2. Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
+3. GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
+4. Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
 
 A PC with the <span class="game-term">Alchemist</span>, <span class="game-term">Artificer</span>, or <span class="game-term">Strange Methods</span> special abilities invents and learns one special formula when they take the ability (they don’t have to take time to learn it).
 
