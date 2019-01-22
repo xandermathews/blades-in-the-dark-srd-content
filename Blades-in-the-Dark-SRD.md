@@ -282,7 +282,7 @@ To make an action roll, we go through six steps. In play, they flow together som
 # The GM sets the **position** for the roll.
 # The GM sets the **effect level** for the action.
 # Add **bonus dice**.
-# The player rolls the dice** and we judge the result.
+# The player **rolls the dice** and we judge the result.
 
 ## 1. The Player States Their Goal
 
