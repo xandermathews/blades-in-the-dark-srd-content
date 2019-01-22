@@ -2086,7 +2086,7 @@ You can add levels of magnitude together to describe a combination of effects, o
 
 The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a _guideline_ for setting a magnitude number that seem appropriate to you.
 
-This table can also be used as a guide to **quality level** when a PC **acquires an asset **or crafts an **alchemical** or **gadget**.
+This table can also be used as a guide to **quality level** when a PC **acquires an asset** or crafts an **alchemical** or **gadget**.
 
 @TODO add tables from 105
 
