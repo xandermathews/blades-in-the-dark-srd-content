@@ -1016,7 +1016,7 @@ When you **invent** or **craft** a creation with _spark-craft_ features, you get
 
 > Follow the Inventing procedure with the GM to define your first spark-craft design.
 
-## Fortitude
+### Fortitude
 
 You may expend your **special armor** to resist a consequence of fatigue, weakness, or chemical effects, or to **push yourself** when working with technical skill or handling alchemicals.
 
