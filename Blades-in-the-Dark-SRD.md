@@ -584,7 +584,7 @@ You track the investigation project using a progress clock. Once the clock is fi
 * You might <span class="game-term">Command</span> a local barkeep to tell you what he knows about the secret meetings held in his back room. _What’s really going on here? What’s he really feeling about this? Is he part of this secret group?_
 * You might <span class="game-term">Consort</span> with a well-connected friend to learn secrets about an enemy, rival, or potential ally. _What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?_
 * You might <span class="game-term">Hunt</span> a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. _Where does the package end up? How can I find out who signed for the package at City Hall?_
-* You might <span class="game-term">Study</span> ancient and obscure books to discover an arcane secret. _How can I disable the runes of warding? __Will anyone sense if they’re disabled?_
+* You might <span class="game-term">Study</span> ancient and obscure books to discover an arcane secret. _How can I disable the runes of warding? Will anyone sense if they’re disabled?_
 * Or you might <span class="game-term">Study</span> a person to read their intentions and feelings. _What are they really feeling? How could I get them to trust me?_
 * You might <span class="game-term">Survey</span> a manor house to case it for a heist. _What’s a good point of infiltration? What’s the danger here?_
 * Or you might <span class="game-term">Survey</span> a charged situation when you meet another gang. _What’s really going on here? Are they about to attack us?_
@@ -664,11 +664,11 @@ On the faction ladder next to the Tier numbers is a letter indicating the streng
 
 To move up the ladder and develop your crew, you need <span class="game-term">rep</span>. <span class="game-term">Rep</span> is a measure of clout and renown. When you accrue enough <span class="game-term">rep</span>, the other factions take you more seriously and you attract the support needed to develop and grow.
 
-When you complete a score, your crew earns **2 **<span class="game-term">rep</span>. If the target of the score is higher Tier than your crew, you get **+1 **<span class="game-term">rep</span>** per Tier higher**. If the target of the score is lower Tier, you get **-1 <span class="game-term">rep</span>** per Tier lower** (minimum zero).
+When you complete a score, your crew earns **2 <span class="game-term">rep</span>**. If the target of the score is higher Tier than your crew, you get **+1 <span class="game-term">rep</span> per Tier higher**. If the target of the score is lower Tier, you get **-1 <span class="game-term">rep</span> per Tier lower** (minimum zero).
 
 You need **12 <span class="game-term">rep</span>** to fill the <span class="game-term">rep</span> tracker on your crew sheet. When you fill the tracker, do one of the following:
 
-* If your hold is weak, it becomes strong. **Reset your **<span class="game-term">rep</span>** to zero**.
+* If your hold is weak, it becomes strong. **Reset your <span class="game-term">rep</span> to zero**.
 * If your hold is strong, you can pay to increase your crew Tier by one. This costs <span class="game-term">coin</span> equal to your **new Tier x 8**. As long as your <span class="game-term">rep</span> tracker is full, you don’t earn new <span class="game-term">rep</span> (12 is the max). Once you pay and increase your Tier, **reset your **<span class="game-term">rep</span>** to zero** and **reduce your hold to weak**.
 
 ## Turf
@@ -701,13 +701,13 @@ When you execute an operation, you gain -1 or -2 status with factions that are h
 
 ### Faction status levels
 
-* **+3: **Allies**. This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
-* **+2: **Friendly**.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
-* **+1: **Helpful**.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
-* **0: **Neutral**
-* **-1: **Interfering**.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
-* **-2: **Hostile**.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
-* **-3: **War**.** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 <span class="game-term">heat</span> from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
+* **+3: Allies.** This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
+* **+2: Friendly.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
+* **+1: Helpful.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
+* **0: Neutral**
+* **-1: Interfering.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
+* **-2: Hostile.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
+* **-3: War.** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 <span class="game-term">heat</span> from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
 
 > If your crew has weak hold when you go to war, the temporary loss of hold causes you to lose one Tier. When the war is over, restore your crew’s Tier back to its pre-war level.
 
@@ -1406,11 +1406,11 @@ A list of five upgrades specific to the crew. Some examples:
 * **Underground Maps and Passkeys:** You have easy passage through the underground canals, tunnels, and basements of the city.
 * **Camouflage:** Your vehicles are perfectly concealed when at rest. They blend in as part of the environment, or as an uninteresting civilian vehicle (your choice).
 
-### Make a Claim Map for the Crew. Sample claims include:</span>
+### Make a Claim Map for the Crew. Sample claims include:
 
-<span class="game-term">Turf: </span>You require one less Rep to advance in tier (max 6).</span>
+<span class="game-term">Turf: </span>You require one less Rep to advance in tier (max 6).
 
-<span class="game-term ">City Records:</span> You get </span>**+1d** to the **engagement roll** for **stealth** plans. _You can use blueprints and other documents to determine a good approach for infiltrations._
+<span class="game-term ">City Records:</span> You get **+1d** to the **engagement roll** for **stealth** plans. _You can use blueprints and other documents to determine a good approach for infiltrations._
 
 <span class="game-term">Cover Identities: </span> You get **+1d** to the **engagement roll** for **deception** and **social plans. _False identities help confuse the opposition._
 
@@ -1502,7 +1502,7 @@ When you use a stealth or deception plan to commit murder, take **+1d** to the *
 
 Fear is as good as respect. You may count each <span class="game-term">wanted level</span> as if it were **turf**.
 
-> The maximum <span class="game-term">wanted level</span> is 4. Regardless of how much turf you hold (from this ability or otherwise) the minimum <span class="game-term">rep</span> cost to advance your Tier is always 6._
+> The maximum <span class="game-term">wanted level</span> is 4. Regardless of how much turf you hold (from this ability or otherwise) the minimum <span class="game-term">rep</span> cost to advance your Tier is always 6.
 
 ### Forged in the fire
 
