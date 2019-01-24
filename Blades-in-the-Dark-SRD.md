@@ -1852,7 +1852,7 @@ Political pressures of various sorts can be applied to the magistrates and warde
 
 ### Smuggling
 
-You arrange smuggling channels inside. You have **+**2 load** while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry <span class="game-term">coin</span> in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
+You arrange smuggling channels inside. You have **+2 load** while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry <span class="game-term">coin</span> in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
 
 # Entanglements
 
@@ -1918,7 +1918,7 @@ A faction with whom you have a negative status makes a play against your holding
 
 A rogue spirit is drawn to you—perhaps it’s a past victim? Acquire the services of an occultist to attempt to destroy or banish it, or deal with it yourself.
 
-> They can hire an NPC by using the <span class="game-term">acquire asset</span>_ downtime activity. Roll the NPC’s quality level as a fortune roll to see how well they deal with the spirit.
+> They can hire an NPC by using the <span class="game-term">acquire asset</span> downtime activity. Roll the NPC’s quality level as a fortune roll to see how well they deal with the spirit.
 
 ### The usual suspects
 
