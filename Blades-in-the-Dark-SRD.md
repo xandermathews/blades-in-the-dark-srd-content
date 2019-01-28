@@ -626,7 +626,7 @@ One unit of <span class="game-term">coin</span> in silver pieces or other bulk c
 
 When you mark your character’s final <span class="game-term">trauma</span> and they retire, the amount of <span class="game-term">coin</span> they’ve managed to stash away determines their fate. Your stash tracker is on your character sheet.
 
-* **Stash 0-10:** **Poor soul. **You end up in the gutter, awash in vice and misery.
+* **Stash 0-10: Poor soul.** You end up in the gutter, awash in vice and misery.
 * **Stash 11-20: Meager.** A tiny hovel that you can call your own.
 * **Stash 21-39: Modest.** A simple home or apartment, with some small comforts. You might operate a tavern or small business.
 * **Stash 40: Fine.** A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
@@ -1154,7 +1154,7 @@ You’re always aware of supernatural entities in your presence. Take **+1d** wh
 
 ### Iron will
 
-You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll **with <span class="game-term">Resolve</span>, take **+1d**.
+You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll** with <span class="game-term">Resolve</span>, take **+1d**.
 
 > With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange occult event.
 
