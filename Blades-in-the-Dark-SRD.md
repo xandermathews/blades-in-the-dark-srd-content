@@ -529,7 +529,7 @@ The fortune roll is a tool the GM can use to disclaim decision making. You use a
 
 **When you need to make a determination about a situation the PCs aren’t directly involved in** and don’t want to simply decide the outcome.
 
-> Two rival gands are fighting. How does that turn out? The GM makes a fortune roll for each of them. One gets a good result but the other gets limited effect. The GM decides that the first gang takes over some of their rivals’ turf but suffer some injuries during the skirmish.
+> Two rival gangs are fighting. How does that turn out? The GM makes a fortune roll for each of them. One gets a good result but the other gets limited effect. The GM decides that the first gang takes over some of their rivals’ turf but suffer some injuries during the skirmish.
 
 **When an outcome is uncertain**, but no other roll applies to the situation at hand.
 
